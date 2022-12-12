@@ -9,7 +9,7 @@ deployment on streamlit.
 - Naive Bayes is chosen as a predictive model.  
 
 You can find data processing and model development in the notebook.ipynb file.  
-You can interact with deployed model [on streamlit 👾](https://fpsgames.streamlit.app/)
+You can interact with deployed model [on streamlit 👾](https://toxicdetection.streamlit.app/)
 ### References
 Data source is [kaggle.com](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset?resource=download)
 ### Screenshot of the steamlit app
