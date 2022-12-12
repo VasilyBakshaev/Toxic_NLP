@@ -65,4 +65,4 @@ st.markdown(f'Chance that your text is toxic: {round(model.predict_proba(sample_
 
 # Final message
 st.success('Thank you for interacting with this model. '
-			 'You can find the source code on [my GitHub 👾](https://github.com/VasilyBakshaev)')
+			 'You can find the source code on [my GitHub 👾](https://github.com/VasilyBakshaev/Toxic_NLP)')
