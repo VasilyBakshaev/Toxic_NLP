@@ -6,7 +6,7 @@ deployment on streamlit.
 
 - The nltk library was used to lemmatize the text.
 - Creation of features from text data was done with TF-IDF method.
-- Naive Bayes is chosen as a predictive model.  
+- Naive Bayes was chosen as a predictive model.  
 
 You can find data processing and model development in the notebook.ipynb file.  
 You can interact with deployed model [on streamlit 👾](https://toxicdetection.streamlit.app/)
